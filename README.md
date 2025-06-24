@@ -31,7 +31,7 @@ This project is a clean, interactive **Excel Dashboard** built to analyze and vi
 
 > ✅ Replace this image below with an actual screenshot of your Excel dashboard
 
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](dashboard_preview.png)
 
 
 ---
